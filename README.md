@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Django, LLM, React,**
 
-- 👨‍💻 All of my projects are available at [https://jainrahul0807.github.io/Portfolio/](https://jainrahul0807.github.io/Portfolio/)
-
 - 💬 Ask me about **AI/ML, Flask, Python, Web Development, Data Science**
 
 - 📫 How to reach me **jainrahul0807@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-bpVPYJNdEtJxBheDeIdZv3katVfp22o/view?usp=drive_link](https://drive.google.com/file/d/1-bpVPYJNdEtJxBheDeIdZv3katVfp22o/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-bpVPYJNdEtJxBheDeIdZv3katVfp22o/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
